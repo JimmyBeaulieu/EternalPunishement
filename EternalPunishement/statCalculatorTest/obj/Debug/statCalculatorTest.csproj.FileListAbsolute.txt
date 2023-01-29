@@ -1,0 +1,13 @@
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.csproj.AssemblyReference.cache
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.Form1.resources
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.Properties.Resources.resources
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.csproj.GenerateResource.cache
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\bin\Debug\statCalculatorTest.exe.config
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\bin\Debug\statCalculatorTest.exe
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\bin\Debug\statCalculatorTest.pdb
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.exe
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.pdb
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.gameScreen.resources
+C:\Users\gytim\source\repos\statCalculatorTest\statCalculatorTest\obj\Debug\statCalculatorTest.Start.resources
